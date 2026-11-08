@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/arXiv2026-uncertainty-aware/commit/ab400614f515cb72956304b95758ece1b9829012",
       "git:hexsha": "ab400614f515cb72956304b95758ece1b9829012",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
